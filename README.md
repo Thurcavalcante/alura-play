@@ -1,5 +1,35 @@
-Vídeos da sessão vídeos:
+![Imagem do projeto](alura-play.png)
 
+# Alura Play
+O Projeto Alura Play é uma plataforma de ensino online que oferece uma variedade de cursos e conteúdos educacionais para quem deseja aprender e se aprimorar em diversas áreas do conhecimento. Com o Alura Play, você tem acesso a cursos práticos, desafios interativos e materiais complementares para impulsionar o seu aprendizado.
+
+## Sobre o projeto
+A plataforma Alura Play reúne uma equipe de instrutores especializados que desenvolvem conteúdos de alta qualidade, abrangendo desde tecnologia da informação até design e negócios. Com uma abordagem prática e focada no mercado de trabalho, o Alura Play permite que os usuários desenvolvam novas habilidades e estejam sempre atualizados com as últimas tendências em suas áreas de interesse.
+
+## Recursos do Projeto:
+- Diversidade de cursos em diversas áreas do conhecimento
+- Aulas práticas e dinâmicas ministradas por profissionais experientes
+- Exercícios e desafios para consolidar o aprendizado
+- Recursos complementares, como apostilas e quizzes interativos
+
+Com o Alura Play, você pode expandir seus conhecimentos, desenvolver novas habilidades e se preparar para os desafios do mercado de trabalho de forma eficaz. Explore nossos cursos e comece a investir no seu crescimento profissional hoje mesmo!
+
+### 📦 Tecnologias usadas
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+### 👷‍♂️ Autores / Colaboradores
+
+* **Luan Alves** - *Instrutor Frontend do projeto* - [@luan-alvesdev](https://github.com/luan-alvesdev)
+
+* **Arthur Cavalcante** - *Frontend do projeto* - [@Thurcavalcante](https://github.com/Thurcavalcante)
+
+### 🔗 Deploy: [Alura Play](https://thurcavalcante.github.io/alura-play/)
+
+---
+<details>
+  <summary>Vídeos da sessão vídeos</summary>
         <li class="videos__item">
             <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/pA-EgOaF23I" title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -179,3 +209,4 @@ Vídeos da sessão vídeos:
                 <p>2,3 mil visualizações - Há 2 dias</p>
             </div>
         </li>
+</details>
